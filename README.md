@@ -1,6 +1,6 @@
 ## PROJECT SPECIFICATION
 
-   News App, Stage 2
+   7.News App, Stage 2
    
 # Layout
 

@@ -76,3 +76,9 @@ The code also has proper indentation when defining variables and methods.
 Strings:
 
 All Strings are stored in the strings.xml resource file.
+
+![screenshot_20181014-221802](https://user-images.githubusercontent.com/34723009/46941846-b407e480-d074-11e8-8d2c-9b2121e01086.png)
+![screenshot_20181014-221811](https://user-images.githubusercontent.com/34723009/46941850-b8340200-d074-11e8-8f4f-d4a9073f8415.png)
+![screenshot_20181014-221820](https://user-images.githubusercontent.com/34723009/46941853-b9652f00-d074-11e8-98de-09e092f2d2b6.png)
+![screenshot_20181014-221831](https://user-images.githubusercontent.com/34723009/46941858-bcf8b600-d074-11e8-9472-bbf33882860f.png)
+![screenshot_20181014-221918](https://user-images.githubusercontent.com/34723009/46941872-c08c3d00-d074-11e8-96e5-646f4c21df88.png)
